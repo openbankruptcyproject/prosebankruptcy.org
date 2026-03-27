@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prosebankruptcy.org/sitemap.xml

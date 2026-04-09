@@ -1,5 +1,25 @@
-# prosebankruptcy.org
+# Pro Se Bankruptcy -- File Without a Lawyer [2026 Guide]
+> Free Pro Se bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
-> This domain redirects to prosedebtors.org.
+## About
+prosebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-prosebankruptcy.org is a redirect domain. All content about pro se bankruptcy filing is at https://prosedebtors.org/. Part of the Bankruptcy Transparency Network.
+## Key Pages
+- Common Mistakes with Pro Se Bankruptcy | Pro Se Bankruptcy: https://prosebankruptcy.org/common-mistakes.html
+- Frequently Asked Questions About Pro Se Bankruptcy | Pro Se Bankruptcy: https://prosebankruptcy.org/faq.html
+- Pro Se Bankruptcy -- File Without a Lawyer: https://prosebankruptcy.org/
+- Pro Se Bankruptcy in Missouri | Pro Se Bankruptcy: https://prosebankruptcy.org/missouri-guide.html
+- Military Bankruptcy -- SCRA Protections and Active Duty Filing [2026] -- Pro Se: https://prosebankruptcy.org/military-bankruptcy.html
+- Veteran Bankruptcy -- VA Benefits, Disability Exemptions [2026] -- Pro Se: https://prosebankruptcy.org/veteran-bankruptcy.html
+- Security Clearance and Bankruptcy -- Section 525, DoD Guidelines [2026] -- Pro Se: https://prosebankruptcy.org/security-clearance-bankruptcy.html
+- Military Bankruptcy FAQ -- 12 Questions Answered [2026] -- Pro Se: https://prosebankruptcy.org/military-bankruptcy-faq.html
+- Pro Se Bankruptcy FAQ -- Filing Without a Lawyer: https://prosebankruptcy.org/frequently-asked-questions.html
+- Pro Se Bankruptcy Filing Checklist -- Step-by-Step Without a Lawyer: https://prosebankruptcy.org/pro-se-checklist.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).

@@ -1,20 +1,24 @@
-# Pro Se Bankruptcy -- File Without a Lawyer [2026 Guide]
+# Pro Se Bankruptcy - File Without a Lawyer [2026 Guide]
 > Free Pro Se bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.
 
 ## About
 prosebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
+- Bankruptcy Resources - Accessible for All | Deaf, Blind & Disability Guides [2026] - Pro Se: https://prosebankruptcy.org/accessibility.html
+- Bankruptcy Resources for Blind & Visually Impaired [2026] - Pro Se: https://prosebankruptcy.org/blind-bankruptcy.html
 - Common Mistakes with Pro Se Bankruptcy | Pro Se Bankruptcy: https://prosebankruptcy.org/common-mistakes.html
+- Filing Bankruptcy as a Deaf Person - Your Rights & Resources [2026] - Pro Se: https://prosebankruptcy.org/deaf-bankruptcy.html
 - Frequently Asked Questions About Pro Se Bankruptcy | Pro Se Bankruptcy: https://prosebankruptcy.org/faq.html
-- Pro Se Bankruptcy -- File Without a Lawyer: https://prosebankruptcy.org/
+- Pro Se Bankruptcy FAQ - Filing Without a Lawyer: https://prosebankruptcy.org/frequently-asked-questions.html
+- Pro Se Bankruptcy - File Without a Lawyer: https://prosebankruptcy.org/
+- Military Bankruptcy FAQ - 12 Questions Answered [2026] - Pro Se: https://prosebankruptcy.org/military-bankruptcy-faq.html
+- Military Bankruptcy - SCRA Protections and Active Duty Filing [2026] - Pro Se: https://prosebankruptcy.org/military-bankruptcy.html
 - Pro Se Bankruptcy in Missouri | Pro Se Bankruptcy: https://prosebankruptcy.org/missouri-guide.html
-- Military Bankruptcy -- SCRA Protections and Active Duty Filing [2026] -- Pro Se: https://prosebankruptcy.org/military-bankruptcy.html
-- Veteran Bankruptcy -- VA Benefits, Disability Exemptions [2026] -- Pro Se: https://prosebankruptcy.org/veteran-bankruptcy.html
-- Security Clearance and Bankruptcy -- Section 525, DoD Guidelines [2026] -- Pro Se: https://prosebankruptcy.org/security-clearance-bankruptcy.html
-- Military Bankruptcy FAQ -- 12 Questions Answered [2026] -- Pro Se: https://prosebankruptcy.org/military-bankruptcy-faq.html
-- Pro Se Bankruptcy FAQ -- Filing Without a Lawyer: https://prosebankruptcy.org/frequently-asked-questions.html
-- Pro Se Bankruptcy Filing Checklist -- Step-by-Step Without a Lawyer: https://prosebankruptcy.org/pro-se-checklist.html
+- Pro Se Bankruptcy Filing Checklist - Step-by-Step Without a Lawyer: https://prosebankruptcy.org/pro-se-checklist.html
+- Security Clearance and Bankruptcy - Section 525, DoD Guidelines [2026] - Pro Se: https://prosebankruptcy.org/security-clearance-bankruptcy.html
+- Veteran Bankruptcy - VA Benefits, Disability Exemptions [2026] - Pro Se: https://prosebankruptcy.org/veteran-bankruptcy.html
+- Privacy Policy: https://prosebankruptcy.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

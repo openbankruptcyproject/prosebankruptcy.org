@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prosebankruptcy.org/sitemap.xml
+
+Sitemap: https://prosebankruptcy.org/sitemapindex.xml

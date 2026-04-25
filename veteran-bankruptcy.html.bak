@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Veteran Bankruptcy - VA Benefits, Disability Exemptions [2026] - Pro Se</title>
+<meta name="description" content="Bankruptcy guide for veterans. VA disability benefits exempt from means test, protected from creditors, and not counted as income. PTSD, medical ...">
+<link rel="canonical" href="https://prosebankruptcy.org/veteran-bankruptcy.html">
+<meta property="og:title" content="Veteran Bankruptcy - VA Benefits, Disability Exemptions [2026] - Pro Se">
+<meta property="og:description" content="Bankruptcy guide for veterans. VA disability benefits exempt from means test, protected from creditors, and not counted as income. PTSD, medical ...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://prosebankruptcy.org/veteran-bankruptcy.html">
+<meta property="og:site_name" content="prosebankruptcy.org">
+<meta property="og:image" content="/og-image.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Veteran Bankruptcy - VA Benefits, Disability Exemptions [2026] - Pro Se">
+<meta name="twitter:description" content="Bankruptcy guide for veterans. VA disability benefits exempt from means test, protected from creditors, and not counted as income. PTSD, medical ...">
+<meta name="twitter:image" content="/og-image.svg">
+<!-- BTN:GA4:START -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"Veteran Bankruptcy - VA Benefits, Disability Exemptions [2026]","description":"Bankruptcy guide for veterans. VA disability benefits exempt from means test, protected from creditors, and not counted as income. PTSD, medical debt, and veteran-specific protections.","author":{"@type":"Organization","name":"Open Bankruptcy Project"},"publisher":{"@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"},"datePublished":"2026-04-07","dateModified":"2026-04-07","mainEntityOfPage":"https://prosebankruptcy.org/veteran-bankruptcy.html"}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
+{"@type": "Question", "name": "Is VA disability income counted in the bankruptcy means test?", "acceptedAnswer": {"@type": "Answer", "text": "No. VA disability compensation is explicitly excluded from current monthly income under 11 U.S.C. section 101(10A)(B)(ii). It does not count toward the means test."}},
+{"@type": "Question", "name": "Can creditors take VA disability benefits?", "acceptedAnswer": {"@type": "Answer", "text": "No. Under 38 U.S.C. section 5301(a), VA benefits are exempt from creditor claims and cannot be attached, levied, or seized. Keep VA deposits in a separate account to avoid commingling."}},
+{"@type": "Question", "name": "Can I file Chapter 7 if my only income is VA disability?", "acceptedAnswer": {"@type": "Answer", "text": "Almost certainly yes. Since VA disability is excluded from current monthly income, your means test income would be $0, automatically qualifying you for Chapter 7 regardless of the median income in your state."}},
+{"@type": "Question", "name": "Is medical debt dischargeable in bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Medical debt is general unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy."}}
+]}
+</script>
+<style>:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#c9d1d9;--text-secondary:#8b949e;--accent:#58a6ff;--accent-hover:#79c0ff;--success:#3fb950;--warning:#d29922;--danger:#f85149}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;line-height:1.6;padding:0}
+.skip-link{position:absolute;top:-40px;left:0;background:var(--accent);color:#fff;padding:8px 16px;z-index:200;font-weight:600;text-decoration:none;border-radius:0 0 4px 0}
+.skip-link:focus{top:0}
+.container{max-width:900px;margin:0 auto;padding:24px 16px}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:100}
+header a{color:var(--accent);text-decoration:none}
+h1{color:#f0f6fc;font-size:1.8em;margin:24px 0 16px}
+h2{color:#f0f6fc;font-size:1.4em;margin:32px 0 12px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+h3{color:var(--text);font-size:1.1em;margin:20px 0 8px}
+p{margin:0 0 16px;color:var(--text)}
+a{color:var(--accent)}
+ul,ol{margin:0 0 16px 24px}
+li{margin:4px 0}
+.subtitle{color:var(--text-secondary);font-size:1.1em;margin-bottom:24px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:20px;margin:16px 0}
+.quick-answer{background:var(--surface);border-left:4px solid var(--success);padding:16px 20px;border-radius:0 6px 6px 0;margin:16px 0}
+.quick-answer p{margin:0}
+.warning{background:var(--surface);border-left:4px solid var(--danger);padding:16px 20px;border-radius:0 6px 6px 0;margin:16px 0}
+.warning p{margin:0}
+.cta{background:var(--accent);color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;display:inline-block;margin:16px 0;font-weight:600}
+.cta:hover{background:var(--accent-hover)}
+footer{text-align:center;padding:32px 16px;color:var(--text-secondary);border-top:1px solid var(--border);margin-top:48px;font-size:0.9em}
+footer a{color:var(--accent)}
+table{width:100%;border-collapse:collapse;margin:16px 0;font-size:0.9rem}
+th,td{padding:8px 12px;text-align:left;border-bottom:1px solid var(--border)}
+th{color:var(--text-secondary);font-size:0.8rem;text-transform:uppercase}
+@media(max-width:768px){h1{font-size:1.4em}.container{padding:16px 12px}}</style>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<header role="banner">
+<a href="/">Pro Se Bankruptcy</a> | <a href="/accessibility.html">Accessibility</a> | <a href="/military-bankruptcy.html">Military</a> | <a href="https://1328f.com">Discharge Screener</a>
+</header>
+<main id="main-content">
+<div class="container">
+<h1>Veteran Bankruptcy - VA Benefits and Disability Exemptions</h1>
+<p class="subtitle">Veterans have specific bankruptcy protections that most guides overlook. VA disability income is exempt from the <a href="https://meanstest.org/" title="means test">means test</a>, protected from creditors, and does not count as disposable income.</p>
+
+<div class="quick-answer" role="note" aria-label="Key fact">
+<p><strong>Key protection:</strong> VA disability compensation is excluded from "current monthly income" under 11 U.S.C. &sect; 101(10A)(B)(ii). This means it does not count toward the <a href="https://meanstest.org/" title="means test">means test</a>, making it easier for disabled veterans to qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>.</p>
+</div>
+
+<h2>VA Disability and the Means Test</h2>
+<p>The means test determines whether you qualify for <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> or must file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. For veterans, a critical exclusion applies:</p>
+<ul>
+<li><strong>VA disability compensation is excluded</strong> from "current monthly income" entirely. If your only income is VA disability, you automatically pass the means test.</li>
+<li><strong>VA pension benefits are also excluded.</strong> Both service-connected and non-service-connected VA pension payments are not counted.</li>
+<li><strong>Social Security is excluded too.</strong> If you receive both VA disability and Social Security, neither counts toward the means test.</li>
+</ul>
+<div class="card">
+<p><strong>Example:</strong> A veteran receives $3,500/month in VA disability and $1,200/month in Social Security. Their "current monthly income" for the means test is $0. They qualify for Chapter 7 regardless of the median income in their state.</p>
+</div>
+
+<h2>VA Benefits as Exempt Property</h2>
+<p>VA benefits are protected from creditors under federal law:</p>
+<ul>
+<li><strong>38 U.S.C. &sect; 5301(a)</strong> - VA benefits are exempt from "the claims of creditors" and are not subject to "attachment, levy, or seizure by or under any legal or equitable process."</li>
+<li>This protection applies to: disability compensation, pension, education benefits (GI Bill), vocational rehabilitation, and dependency and indemnity compensation (DIC).</li>
+<li>VA benefits in a bank account remain exempt as long as they are traceable to VA deposits. Keep VA deposits in a separate account to avoid commingling issues.</li>
+</ul>
+
+<h2>VA Disability and Chapter 13</h2>
+<p>If you file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>:</p>
+<ul>
+<li>VA disability is <strong>not</strong> included in calculating your disposable income for plan payments under the means test calculation.</li>
+<li>However, the court may consider VA disability as part of your overall financial picture when assessing plan feasibility and whether the plan is proposed in <a href="https://chapter13plan.org/" title="good faith">good faith</a>.</li>
+<li>In practice, veterans with high VA disability ratings often qualify for Chapter 7 and do not need Chapter 13.</li>
+</ul>
+
+<h2>Medical Debt and Veterans</h2>
+<p>Veterans disproportionately carry <a href="https://medicaldebtbankruptcy.com/" title="medical debt">medical debt</a>, even with VA healthcare access. Reasons include:</p>
+<ul>
+<li>Non-VA emergency care before VA eligibility was established</li>
+<li>Dental and vision care not covered by VA</li>
+<li>Care for family members not eligible for VA benefits</li>
+<li>Copays and community care billing disputes</li>
+</ul>
+<p><a href="https://medicaldebtbankruptcy.com/" title="medical debt">Medical debt</a> is general <a href="https://creditcarddebtbankruptcy.org/" title="unsecured debt">unsecured debt</a> and is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.</p>
+
+<h2>PTSD, TBI, and Bankruptcy</h2>
+<p>Service-connected PTSD and traumatic brain injury (TBI) can lead to financial problems including impulsive spending, inability to manage finances, and employment difficulties. Courts recognize these circumstances:</p>
+<ul>
+<li>PTSD/TBI can support a motion to reopen a dismissed case</li>
+<li>Can justify extending deadlines or requesting accommodations</li>
+<li>Mental health evidence can support a "totality of circumstances" argument in the means test</li>
+</ul>
+
+<h2>Veteran-Specific Resources</h2>
+<ul>
+<li><strong>VA Financial Counseling</strong> - Contact your VA medical center's social work department</li>
+<li><strong>Veterans Legal Services</strong> - Many states have free legal clinics for veterans</li>
+<li><strong>National Veterans Legal Services Program</strong> - <a href="https://www.nvlsp.org" target="_blank" rel="noopener">nvlsp.org</a></li>
+<li><strong>VA Debt Management Center</strong> - 1-800-827-0648 for VA-specific debts</li>
+</ul>
+
+<h2>Related Guides</h2>
+<ul>
+<li><a href="military-bankruptcy.html">Military Bankruptcy - SCRA Protections</a></li>
+<li><a href="security-clearance-bankruptcy.html">Security Clearance and Bankruptcy</a></li>
+<li><a href="military-bankruptcy-faq.html">Military Bankruptcy FAQ</a></li>
+</ul>
+
+<div class="card" style="margin-top:32px">
+<h3>Get Free Bankruptcy Information</h3>
+<p>Check your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screener tool.</p>
+<a href="https://1328f.com?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network" class="cta">Check Eligibility Now</a>
+</div>
+</div>
+
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+Part of the <a href="https://1328f.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a> | Free information, no strings.
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=prosebankruptcy.org" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=prosebankruptcy.org" style="color:#7d8590">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=prosebankruptcy.org" style="color:#7d8590">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+<p style="margin-top:16px;font-size:0.8rem">This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

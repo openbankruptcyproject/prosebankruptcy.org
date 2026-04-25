@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<!-- BTN:GA4:START -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Pro Se Bankruptcy FAQ - Filing Without a Lawyer</title>
+<meta name="description" content="Common questions about filing bankruptcy without an attorney, including forms, costs, risks, and step-by-step guidance for self-represented debtors.">
+<meta name="keywords" content="pro se bankruptcy, file bankruptcy without lawyer, self-represented bankruptcy, bankruptcy forms pro se">
+<link rel="canonical" href="https://prosebankruptcy.org/frequently-asked-questions.html">
+<link rel="alternate" hreflang="en" href="https://prosebankruptcy.org/frequently-asked-questions.html">
+<link rel="alternate" hreflang="es" href="https://prosebankruptcy.org/frequently-asked-questions-es.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Pro Se Bankruptcy FAQ - Filing Without a Lawyer">
+<meta property="og:description" content="Common questions about filing bankruptcy without an attorney, including forms, costs, risks, and step-by-step guidance for self-represented debtors.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://prosebankruptcy.org/frequently-asked-questions.html">
+<meta property="og:site_name" content="prosebankruptcy.org">
+<meta property="og:image" content="/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pro Se Bankruptcy FAQ - Filing Without a Lawyer">
+<meta name="twitter:description" content="Common questions about filing bankruptcy without an attorney, including forms, costs, risks, and step-by-step guidance for self-represented debtors.">
+<meta name="twitter:image" content="/og-image.svg">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I file bankruptcy without a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Filing bankruptcy pro se (without an attorney) is a legal right for individual debtors. About 10% of bankruptcy filers represent themselves. While it saves attorney fees, it requires careful attention to forms, deadlines, and procedures."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost to file bankruptcy pro se?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without an attorney, your costs are: Chapter 7 filing fee ($338), Chapter 13 filing fee ($313), credit counseling course ($25-$50), and debtor education course ($25-$50). Total cost is approximately $400-$450. Fee waivers can reduce Chapter 7 costs to zero for qualifying filers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the biggest risks of filing pro se?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common risks include: choosing the wrong chapter, incorrectly claiming exemptions and losing property, failing to list all debts or assets, missing deadlines that result in case dismissal, and not understanding the means test. These mistakes can cost more than hiring an attorney would have."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where do I get the bankruptcy forms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All official bankruptcy forms are free at uscourts.gov/forms/bankruptcy-forms. You need the petition (Form 101), Schedules A through J, the Statement of Financial Affairs (Form 107), and means test forms (122A or 122C). Your local court may require additional local forms."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use software to prepare my bankruptcy filing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Several software options exist for preparing pro se filings, including BankruptcyFilingPro and similar tools. However, no software can replace legal judgment on issues like exemption selection, chapter choice, and strategic timing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the biggest mistake pro se filers make?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistake is failing to properly claim exemptions. This can result in losing property you could have protected. Other common mistakes include not listing all creditors, missing deadlines for required documents, and not attending the 341 meeting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I file Chapter 13 without a lawyer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Technically yes, but it is significantly harder than Chapter 7. Chapter 13 requires a viable repayment plan that complies with complex rules. Most bankruptcy judges strongly discourage pro se Chapter 13 filings because the plan must satisfy multiple legal tests."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What help is available for pro se filers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resources include: the court clerk's office (procedural questions only), legal aid organizations, law school clinics, bankruptcy court self-help centers, online guides (like this site), and bankruptcy petition preparers (who can help with forms but not legal advice)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a bankruptcy petition preparer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bankruptcy petition preparer (BPP) is a non-attorney who helps you fill out bankruptcy forms for a fee. They are regulated under 11 U.S.C. Section 110. BPPs cannot provide legal advice, select your exemptions, or tell you which chapter to file. Their fees are capped by the court."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I attend the 341 meeting as a pro se filer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bring two forms of ID (one photo ID and one showing your Social Security number), your bankruptcy petition, 60 days of pay stubs, and your most recent tax return. The trustee will ask about your finances under oath. Answer honestly and briefly. Most meetings last 5-10 minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I amend my bankruptcy filing if I make a mistake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can file amendments to correct errors in your schedules, add missed creditors, or update financial information. There is typically a small fee ($32) for most amendments. Amendments should be filed as soon as you discover the error."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do pro se filers have a higher failure rate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Studies show pro se filers have higher rates of case dismissal, particularly in Chapter 13. In Chapter 7, pro se filers often succeed if they follow instructions carefully and have straightforward cases. Complex cases with significant assets, business debts, or tax issues benefit greatly from professional help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a paralegal help me file bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paralegals working under attorney supervision can help. Independent paralegals or 'legal document preparers' can only help with forms, not advice. Be cautious of services that offer 'affordable bankruptcy help' - if a non-attorney is telling you which chapter to file or which exemptions to claim, they are practicing law illegally."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do before filing pro se?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before filing: complete credit counseling, take the means test, gather all financial documents, research your state's exemptions thoroughly, review the official forms, check local court rules, and consider at least a consultation with a bankruptcy attorney (many offer free consultations)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there legal aid for bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Legal aid organizations in many areas provide free bankruptcy representation for qualifying low-income individuals. Law school clinics also offer supervised student representation. Contact your local legal aid office or check lawhelp.org for options in your area."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://openbankruptcyproject.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "prosebankruptcy.org",
+      "item": "https://prosebankruptcy.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "FAQ",
+      "item": "https://prosebankruptcy.org/frequently-asked-questions.html"
+    }
+  ]
+}
+</script>
+
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .faq-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 0.75rem 0;
+    overflow: hidden;
+  }
+  .faq-item summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+    list-style: none;
+    position: relative;
+    padding-right: 2.5rem;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::after {
+    content: '+';
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .faq-item[open] summary::after { content: '-'; }
+  .faq-item[open] summary {
+    border-bottom: 1px solid var(--border);
+    background: rgba(88,166,255,0.05);
+  }
+  .faq-item p {
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .related-pages, .crosslinks {
+    margin: 2.5rem 0 1.5rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .related-pages h2, .crosslinks h2 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .related-pages ul, .crosslinks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .related-pages li, .crosslinks li {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  footer .links { margin: 1rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; }
+  footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  footer .disclaimer { max-width: 700px; margin: 1rem auto 0; font-size: 0.8rem; color: #7d8590; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    nav { padding: 0.5rem 1rem; }
+    main { padding: 1.5rem 1rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+<nav aria-label="Main navigation">
+  <a href="/" class="site-name">prosebankruptcy.org</a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="/frequently-asked-questions.html" class="active">FAQ</a>
+    <a href="/frequently-asked-questions-es.html">Espanol</a>
+  </div>
+</nav>
+<header>
+  <h1>Pro Se Bankruptcy FAQ - Filing Without a Lawyer</h1>
+  <p class="subtitle">Common questions about filing bankruptcy without an attorney, including forms, costs, risks, and step-by-step guidance for self-represented debtors.</p>
+</header>
+<main id="main">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a><span class="separator">&rsaquo;</span><a href="https://prosebankruptcy.org/">prosebankruptcy.org</a><span class="separator">&rsaquo;</span><span>FAQ</span></nav>
+
+  <div class="faq-list" role="list">
+    <details class="faq-item">
+      <summary>Can I <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">file bankruptcy without a lawyer</a>?</summary>
+      <p>Yes. Filing bankruptcy pro se (<a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">without an attorney</a>) is a legal right for individual debtors. About 10% of bankruptcy filers represent themselves. While it saves attorney fees, it requires careful attention to forms, deadlines, and procedures.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How much does it cost to file bankruptcy pro se?</summary>
+      <p>Without an attorney, your costs are: <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing fee ($338), <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> filing fee ($313), <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> course ($25-$50), and debtor education course ($25-$50). Total cost is approximately $400-$450. Fee waivers can reduce <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> costs to zero for qualifying filers.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What are the biggest risks of filing pro se?</summary>
+      <p>Common risks include: choosing the wrong chapter, incorrectly claiming <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a> and losing property, failing to list all debts or assets, missing deadlines that result in case <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, and not understanding the <a href="https://meanstest.org/" title="means test">means test</a>. These mistakes can cost more than hiring an attorney would have.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Where do I get the bankruptcy forms?</summary>
+      <p>All official bankruptcy forms are free at uscourts.gov/forms/bankruptcy-forms. You need the petition (Form 101), Schedules A through J, the Statement of Financial Affairs (Form 107), and <a href="https://meanstest.org/" title="means test">means test</a> forms (122A or 122C). Your local court may require additional local forms.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I use software to prepare my bankruptcy filing?</summary>
+      <p>Yes. Several software options exist for preparing pro se filings, including BankruptcyFilingPro and similar tools. However, no software can replace legal judgment on issues like exemption selection, chapter choice, and strategic timing.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is the biggest mistake pro se filers make?</summary>
+      <p>The most common mistake is failing to properly claim <a href="https://bankruptcyexemptionsbystate.com/" title="exemptions">exemptions</a>. This can result in losing property you could have protected. Other common mistakes include not listing all creditors, missing deadlines for required documents, and not attending the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a>.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I file <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> without a lawyer?</summary>
+      <p>Technically yes, but it is significantly harder than Chapter 7. Chapter 13 requires a viable <a href="https://chapter13plan.org/" title="Chapter 13 plan">repayment plan</a> that complies with complex rules. Most bankruptcy judges strongly discourage pro se Chapter 13 filings because the plan must satisfy multiple legal tests.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What help is available for pro se filers?</summary>
+      <p>Resources include: the court clerk's office (procedural questions only), legal aid organizations, law school clinics, bankruptcy court self-help centers, online guides (like this site), and bankruptcy petition preparers (who can help with forms but not legal advice).</p>
+    </details>
+    <details class="faq-item">
+      <summary>What is a bankruptcy petition preparer?</summary>
+      <p>A bankruptcy petition preparer (BPP) is a non-attorney who helps you fill out bankruptcy forms for a fee. They are regulated under 11 U.S.C. Section 110. BPPs cannot provide legal advice, select your exemptions, or tell you which chapter to file. Their fees are capped by the court.</p>
+    </details>
+    <details class="faq-item">
+      <summary>How do I attend the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a> as a pro se filer?</summary>
+      <p>Bring two forms of ID (one photo ID and one showing your Social Security number), your bankruptcy petition, 60 days of pay stubs, and your most recent tax return. The trustee will ask about your finances under oath. Answer honestly and briefly. Most meetings last 5-10 minutes.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can I amend my bankruptcy filing if I make a mistake?</summary>
+      <p>Yes. You can file amendments to correct errors in your schedules, add missed creditors, or update financial information. There is typically a small fee ($32) for most amendments. Amendments should be filed as soon as you discover the error.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Do pro se filers have a higher failure rate?</summary>
+      <p>Studies show pro se filers have higher rates of case <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, particularly in Chapter 13. In Chapter 7, pro se filers often succeed if they follow instructions carefully and have straightforward cases. Complex cases with significant assets, business debts, or tax issues benefit greatly from professional help.</p>
+    </details>
+    <details class="faq-item">
+      <summary>Can a paralegal help me file bankruptcy?</summary>
+      <p>Paralegals working under attorney supervision can help. Independent paralegals or 'legal document preparers' can only help with forms, not advice. Be cautious of services that offer 'affordable bankruptcy help' - if a non-attorney is telling you which chapter to file or which exemptions to claim, they are practicing law illegally.</p>
+    </details>
+    <details class="faq-item">
+      <summary>What should I do before filing pro se?</summary>
+      <p>Before filing: complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>, take the means test, gather all financial documents, research your state's exemptions thoroughly, review the official forms, check local court rules, and consider at least a consultation with a bankruptcy attorney (many offer free consultations).</p>
+    </details>
+    <details class="faq-item">
+      <summary>Is there legal aid for bankruptcy?</summary>
+      <p>Legal aid organizations in many areas provide free bankruptcy representation for qualifying low-income individuals. Law school clinics also offer supervised student representation. Contact your local legal aid office or check lawhelp.org for options in your area.</p>
+    </details>
+  </div>
+    <div class="related-pages">
+      <h2>More Resources on This Site</h2>
+      <ul>
+        <li><a href="/common-mistakes.html">Common Mistakes</a></li>
+        <li><a href="/missouri-guide.html">Missouri Guide</a></li>
+      </ul>
+    </div>
+    <div class="crosslinks">
+      <h2>Related Resources</h2>
+      <ul>
+        <li><a href="https://howtofilebankruptcy.org?utm_source=prosebankruptcy.org&utm_medium=paa-faq&utm_campaign=btn-network">How to File Bankruptcy</a></li>
+        <li><a href="https://bankruptcymeanstest.org?utm_source=prosebankruptcy.org&utm_medium=paa-faq&utm_campaign=btn-network">Means Test</a></li>
+        <li><a href="https://bankruptcyexemptionsbystate.com?utm_source=prosebankruptcy.org&utm_medium=paa-faq&utm_campaign=btn-network">Exemptions by State</a></li>
+        <li><a href="https://341meeting.org?utm_source=prosebankruptcy.org&utm_medium=paa-faq&utm_campaign=btn-network">341 Meeting</a></li>
+      </ul>
+    </div>
+
+
+<div style="margin:1.5rem 0"><h2 style="color:#f0f6fc;font-size:1.1rem;margin-bottom:1rem">Related Resources</h2>
+    <a href="https://openbankruptcyproject.org/rule-9037/" style="display:block;background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1rem;text-decoration:none;color:#58a6ff;font-weight:600;font-size:0.9rem">Rule 9037 Compliance Guide</a>
+</div>
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+  <p><strong>Open Bankruptcy Project</strong></p>
+  <p>Real information, no strings.</p>
+  <div class="links">
+    <a href="https://openbankruptcyproject.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">openbankruptcyproject.org</a>
+    <a href="https://1328f.com?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">1328f.com</a>
+    <a href="https://chapter7vs13.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">chapter7vs13.org</a>
+    <a href="https://bankruptcymeanstest.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">bankruptcymeanstest.org</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.4rem 1rem;border-radius:6px;font-weight:600;font-size:0.85rem;text-decoration:none">&#9829; Sponsor</a>
+  </div>
+  <p class="disclaimer">This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.<br>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590">Terms</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>

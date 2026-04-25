@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Bankruptcy Resources - Accessible for All | Deaf, Blind & Disability Guides [2026] - Pro Se</title>
+<meta name="description" content="Accessible bankruptcy resources for deaf, blind, and disabled filers. ADA accommodations in bankruptcy court, screen reader guides, ASL interpret...">
+<meta name="keywords" content="accessible bankruptcy, deaf bankruptcy, blind bankruptcy, disability bankruptcy, ADA accommodations bankruptcy court, screen reader bankruptcy, ASL interpreter 341 meeting, SSDI bankruptcy, SSI bankruptcy">
+<link rel="canonical" href="https://prosebankruptcy.org/accessibility.html">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Bankruptcy Resources - Accessible for All | Deaf, Blind & Disability Guides [2026] - Pro Se">
+<meta property="og:description" content="Accessible bankruptcy resources for deaf, blind, and disabled filers. ADA accommodations in bankruptcy court, screen reader guides, ASL interpret...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://prosebankruptcy.org/accessibility.html">
+<meta property="og:site_name" content="prosebankruptcy.org">
+<meta property="og:image" content="/og-image.svg">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bankruptcy Resources - Accessible for All | Deaf, Blind & Disability Guides [2026] - Pro Se">
+<meta name="twitter:description" content="Accessible bankruptcy resources for deaf, blind, and disabled filers. ADA accommodations in bankruptcy court, screen reader guides, ASL interpret...">
+<meta name="twitter:image" content="/og-image.svg">
+
+<!-- BTN:GA4:START -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Bankruptcy Resources - Accessible for All",
+      "description": "Comprehensive accessibility hub for bankruptcy filers who are deaf, blind, or have disabilities. ADA accommodations, court interpreter requests, screen reader guides, and disability-specific exemptions.",
+      "author": { "@type": "Organization", "name": "Open Bankruptcy Project" },
+      "publisher": { "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org" },
+      "datePublished": "2026-04-07",
+      "dateModified": "2026-04-07",
+      "mainEntityOfPage": "https://prosebankruptcy.org/accessibility.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://prosebankruptcy.org" },
+        { "@type": "ListItem", "position": 2, "name": "Pro Se Bankruptcy", "item": "https://prosebankruptcy.org" },
+        { "@type": "ListItem", "position": 3, "name": "Accessibility Resources", "item": "https://prosebankruptcy.org/accessibility.html" }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "Bankruptcy Resources - Accessible for All",
+      "url": "https://prosebankruptcy.org/accessibility.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".subtitle", ".quick-answer", "h2"]
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#c9d1d9;--text-secondary:#8b949e;--accent:#58a6ff;--accent-hover:#79c0ff;--success:#3fb950;--warning:#d29922;--danger:#f85149}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;line-height:1.6;padding:0}
+.skip-link{position:absolute;top:-40px;left:0;background:var(--accent);color:#fff;padding:8px 16px;z-index:200;font-weight:600;text-decoration:none;border-radius:0 0 4px 0}
+.skip-link:focus{top:0}
+.container{max-width:900px;margin:0 auto;padding:24px 16px}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:100}
+header a{color:var(--accent);text-decoration:none}
+nav[aria-label="Accessibility pages"]{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:16px 20px;margin:16px 0}
+nav[aria-label="Accessibility pages"] a{color:var(--accent);text-decoration:none;display:block;padding:6px 0}
+nav[aria-label="Accessibility pages"] a:hover{text-decoration:underline}
+h1{color:#f0f6fc;font-size:1.8em;margin:24px 0 16px}
+h2{color:#f0f6fc;font-size:1.4em;margin:32px 0 12px;padding-bottom:8px;border-bottom:1px solid var(--border)}
+h3{color:var(--text);font-size:1.1em;margin:20px 0 8px}
+p{margin:0 0 16px;color:var(--text)}
+a{color:var(--accent)}
+ul,ol{margin:0 0 16px 24px}
+li{margin:4px 0}
+.subtitle{color:var(--text-secondary);font-size:1.1em;margin-bottom:24px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:20px;margin:16px 0}
+.hub-card{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:20px 24px;margin:12px 0;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s}
+.hub-card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.hub-card h3{color:var(--accent);margin:0 0 8px}
+.hub-card p{color:var(--text-secondary);margin:0;font-size:0.95em}
+.quick-answer{background:var(--surface);border-left:4px solid var(--success);padding:16px 20px;border-radius:0 6px 6px 0;margin:16px 0}
+.quick-answer p{margin:0}
+.cta{background:var(--accent);color:#fff;padding:12px 24px;border-radius:6px;text-decoration:none;display:inline-block;margin:16px 0;font-weight:600}
+.cta:hover{background:var(--accent-hover)}
+footer{text-align:center;padding:32px 16px;color:var(--text-secondary);border-top:1px solid var(--border);margin-top:48px;font-size:0.9em}
+footer a{color:var(--accent)}
+@media(max-width:768px){h1{font-size:1.4em}.container{padding:16px 12px}}
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a href="#main-content" class="skip-link">Skip to main content</a>
+<header role="banner">
+<a href="/">Pro Se Bankruptcy</a> | <a href="/accessibility.html" aria-current="page">Accessibility</a> | <a href="https://1328f.com">Discharge Screener</a> | <a href="https://1328f.org">Research</a>
+</header>
+<main id="main-content">
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://prosebankruptcy.org">Pro Se Bankruptcy</a><span class="separator">&rsaquo;</span><span>Accessibility Resources</span></nav>
+
+<div class="container">
+<h1>Bankruptcy Resources - Accessible for All</h1>
+<p class="subtitle">Free, accessible bankruptcy information for deaf, hard of hearing, blind, visually impaired, and disabled filers. Updated 2026.</p>
+
+<div class="quick-answer" role="note" aria-label="Key fact">
+<p><strong>Every federal bankruptcy court is required to provide ADA accommodations.</strong> You have the legal right to request interpreters, accessible documents, assistive technology, and other reasonable accommodations - at no cost to you. This page connects you to the resources you need.</p>
+</div>
+
+<h2>Accessibility Guides</h2>
+<p>Select the guide most relevant to your situation. Each provides step-by-step instructions, sample letters, and links to official resources.</p>
+
+<a href="/deaf-bankruptcy.html" class="hub-card" aria-label="Guide for deaf and hard of hearing bankruptcy filers">
+<h3>Filing Bankruptcy as a Deaf or Hard of Hearing Person</h3>
+<p>How to request ASL interpreters for your 341 meeting, Video Relay Service (VRS) options, written communication rights, and court accessibility coordinators.</p>
+</a>
+
+<a href="/blind-bankruptcy.html" class="hub-card" aria-label="Guide for blind and visually impaired bankruptcy filers">
+<h3>Bankruptcy Resources for Blind and Visually Impaired Filers</h3>
+<p>Screen reader compatible resources, large print forms, PACER accessibility alternatives, and how to request accessible documents from the court.</p>
+</a>
+
+<a href="/disability-bankruptcy.html" class="hub-card" aria-label="Guide for bankruptcy filers with disabilities">
+<h3>Bankruptcy with a Disability - SSDI, SSI and Exemptions</h3>
+<p>SSDI and SSI income exclusions from the means test, disability benefits as exempt property, medical debt, and ADA reasonable accommodations.</p>
+</a>
+
+<a href="/accommodations-341.html" class="hub-card" aria-label="Guide to requesting ADA accommodations for 341 meeting">
+<h3>Requesting ADA Accommodations for Your 341 Meeting</h3>
+<p>Step-by-step guide with sample accommodation request letters, types of accommodations available, telephone and video options, and service animal policies.</p>
+</a>
+
+<a href="/accessibility-faq.html" class="hub-card" aria-label="Frequently asked questions about accessibility in bankruptcy">
+<h3>Accessibility FAQ - 15 Common Questions Answered</h3>
+<p>Answers to the most common questions about disability accommodations, interpreter services, accessible filing, and your rights under the ADA.</p>
+</a>
+
+<h2>ADA Accommodations in Bankruptcy Court</h2>
+<p>Title II of the Americans with Disabilities Act (ADA) requires all state and local government entities - including federal bankruptcy courts - to provide reasonable accommodations to people with disabilities. This includes:</p>
+<ul>
+<li><strong>Sign language interpreters</strong> for hearings, 341 meetings, and attorney consultations</li>
+<li><strong>Assistive listening devices</strong> for courtroom proceedings</li>
+<li><strong>Large print documents</strong> and forms in accessible formats</li>
+<li><strong>Screen reader compatible</strong> electronic filings where available</li>
+<li><strong>Physical accessibility</strong> - wheelchair access, accessible restrooms, reserved seating</li>
+<li><strong>Service animals</strong> permitted in all federal buildings</li>
+<li><strong>Telephone or video appearances</strong> when in-person attendance creates a barrier</li>
+<li><strong>Extended deadlines</strong> when disability-related circumstances warrant</li>
+</ul>
+
+<h2>How to Request Accommodations</h2>
+<ol>
+<li><strong>Contact your court's ADA coordinator.</strong> Every federal court has a designated ADA/accessibility coordinator. Find yours at <a href="https://www.uscourts.gov/about-federal-courts/federal-courts-public/court-website-links" target="_blank" rel="noopener">uscourts.gov court directory</a>.</li>
+<li><strong>Make your request early.</strong> Contact the court at least 2 weeks before your hearing or <a href="https://341meeting.org/" title="341 meeting">341 meeting</a> when possible.</li>
+<li><strong>Put it in writing.</strong> A written request creates a record. See our <a href="/accommodations-341.html">sample accommodation request letter</a>.</li>
+<li><strong>Be specific.</strong> State exactly what accommodation you need (e.g., "ASL interpreter for my <a href="https://341meeting.org/" title="341 meeting">341 meeting</a> on [date]").</li>
+<li><strong>Follow up.</strong> Confirm your accommodation is in place before the date of your hearing.</li>
+</ol>
+
+<h2>Our Accessibility Commitment</h2>
+<p>All pages on this site are built with accessibility in mind:</p>
+<ul>
+<li>Semantic HTML with proper heading hierarchy (h1, h2, h3)</li>
+<li>High contrast dark theme (WCAG AA compliant)</li>
+<li>No information conveyed only through color</li>
+<li>Skip navigation links on every page</li>
+<li>ARIA labels and roles where appropriate</li>
+<li>Works with screen readers (NVDA, JAWS, VoiceOver)</li>
+<li>Keyboard navigable - no mouse required</li>
+<li>No auto-playing media or animations</li>
+<li>Plain language, clear structure</li>
+</ul>
+<p>If you encounter any accessibility issues on our site, please <a href="https://openbankruptcyproject.org/contact.html">contact us</a> and we will fix it promptly.</p>
+
+<h2>Key Organizations</h2>
+<div class="card">
+<ul style="list-style:none;margin:0;padding:0">
+<li style="margin-bottom:12px"><a href="https://www.nad.org/" target="_blank" rel="noopener"><strong>National Association of the Deaf (NAD)</strong></a> - Legal advocacy, ADA enforcement, interpreter standards</li>
+<li style="margin-bottom:12px"><a href="https://nfb.org/" target="_blank" rel="noopener"><strong>National Federation of the Blind (NFB)</strong></a> - Advocacy, technology access, legal rights</li>
+<li style="margin-bottom:12px"><a href="https://www.aapd.com/" target="_blank" rel="noopener"><strong>American Association of People with Disabilities (AAPD)</strong></a> - Policy, advocacy, disability rights</li>
+<li style="margin-bottom:12px"><a href="https://www.ada.gov/" target="_blank" rel="noopener"><strong>ADA.gov</strong></a> - Official ADA information from the U.S. Department of Justice</li>
+<li style="margin-bottom:12px"><a href="https://www.disabilityrightsadvocates.org/" target="_blank" rel="noopener"><strong>Disability Rights Advocates</strong></a> - Free legal representation for disability rights cases</li>
+<li style="margin-bottom:12px"><a href="https://www.ndrn.org/" target="_blank" rel="noopener"><strong>National Disability Rights Network (NDRN)</strong></a> - Protection and advocacy systems in every state</li>
+</ul>
+</div>
+
+<div class="card" style="margin-top:32px">
+<h3>Get Free Bankruptcy Information</h3>
+<p>Check your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screener tool.</p>
+<a href="https://1328f.com?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network" class="cta">Check Eligibility Now</a>
+</div>
+
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="margin:24px 0" aria-label="Email subscription">
+<h3>Stay Informed</h3>
+<label for="email-sub" class="sr-only" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0">Email address</label>
+<input type="email" id="email-sub" name="email" placeholder="Your email" required style="padding:8px;width:250px;background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:4px" aria-label="Email address">
+<button type="submit" style="padding:8px 16px;background:var(--accent);color:#fff;border:none;border-radius:4px;cursor:pointer">Subscribe</button>
+<input type="hidden" name="_subject" value="BTN signup from prosebankruptcy.org accessibility">
+</form>
+</div>
+</main>
+
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+Part of the <a href="https://1328f.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a> | Free information, no strings.
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=prosebankruptcy.org&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+<p style="margin-top:16px; font-size:0.8rem;">No legal advice is provided. This is educational information only.</p>
+<p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>
